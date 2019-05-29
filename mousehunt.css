@@ -1,0 +1,12 @@
+
+#container{
+    display: flex;
+}
+
+#slides{
+    display: flex;
+}
+
+#slider{
+    overflow:hidden;
+}
